@@ -1,8 +1,7 @@
 Tugas : Buat 50 Command Line 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_01_35_57](https://github.com/user-attachments/assets/f98379d6-ade7-42dd-9fa9-fea01016807a)
-?raw=true) 
+![VirtualBox_ubuntu_05_09_2024_01_35_57](https://github.com/user-attachments/assets/f98379d6-ade7-42dd-9fa9-fea01016807a)
 
 1. lsb_release -a (melihat versi Ubuntu)
 2. pwd (melihat directory saat ini)
@@ -27,8 +26,7 @@ Tugas : Buat 50 Command Line
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_01_42_18](https://github.com/user-attachments/assets/b8f32f17-3eb6-4b34-99f5-30fca626c77d)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_01_42_18](https://github.com/user-attachments/assets/b8f32f17-3eb6-4b34-99f5-30fca626c77d)
 
 21. df -h (melihat penggunaan disk)
 22. du -sh project (melihat penggunaan ruang dalam direktori "newfile")
@@ -41,8 +39,7 @@ Tugas : Buat 50 Command Line
 
 
 
-![alt text](?![VirtualBox_ubuntu_05_09_2024_01_50_08](https://github.com/user-attachments/assets/d96f4cc8-543d-49fb-ab8a-95db430ee4af)
-raw=true)
+![VirtualBox_ubuntu_05_09_2024_01_50_08](https://github.com/user-attachments/assets/d96f4cc8-543d-49fb-ab8a-95db430ee4af)
 
 29. kill 3806 (membunuh proses yang berjalan berdasarkan nomor PIDD yg di tampilkan pada command ps aux sebelumnya)
 30. find . -name "myfile.txt" (mencari file dalam direktori)
@@ -52,15 +49,13 @@ raw=true)
 
 
 
-![alt text](?![VirtualBox_ubuntu_05_09_2024_01_51_08](https://github.com/user-attachments/assets/dce12bb2-4d42-438c-858b-dbe1b9ee6899)
-raw=true)
+![VirtualBox_ubuntu_05_09_2024_01_51_08](https://github.com/user-attachments/assets/dce12bb2-4d42-438c-858b-dbe1b9ee6899)
 
 34. sudo apt upgrade (meng-upgrade sistem)
 
 
 
-![alt text](?![VirtualBox_ubuntu_05_09_2024_01_59_32](https://github.com/user-attachments/assets/3e522760-a333-4e6a-badf-94f1c89024b3)
-raw=true)
+![VirtualBox_ubuntu_05_09_2024_01_59_32](https://github.com/user-attachments/assets/3e522760-a333-4e6a-badf-94f1c89024b3)
 
 35. sudo apt install vim (menginstall aplikasi)
 36. sudo apt remove vim (menghapus aplikasi)
@@ -72,52 +67,45 @@ raw=true)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_07_20](https://github.com/user-attachments/assets/bf24c4f7-983f-4748-95b6-45bb8c66714e)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_07_20](https://github.com/user-attachments/assets/bf24c4f7-983f-4748-95b6-45bb8c66714e)
 
 42. ip add (melihat ip address)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_10_59](https://github.com/user-attachments/assets/59e6af17-ceb2-41e7-a51b-6b1d6449a9b0)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_10_59](https://github.com/user-attachments/assets/59e6af17-ceb2-41e7-a51b-6b1d6449a9b0)
 
 43. sudo adduser guest (menambahkan user baru yakni "guest")
 44. sudo deluser guest (menghapus user guest)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_11_50](https://github.com/user-attachments/assets/42061837-1b89-4217-9180-d9256528ab1c)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_11_50](https://github.com/user-attachments/assets/42061837-1b89-4217-9180-d9256528ab1c)
 
 45. sudo lshw -short (menampilkan informasi hardware)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_40_32](https://github.com/user-attachments/assets/0cd16610-47c8-47bd-86bf-dccb3f45955b)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_40_32](https://github.com/user-attachments/assets/0cd16610-47c8-47bd-86bf-dccb3f45955b)
 
 46. sed (menemukan,mengganti,menghapus pola dalam file)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_41_17](https://github.com/user-attachments/assets/a83bd3b0-ae20-47f8-b763-c34da063ad1a)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_41_17](https://github.com/user-attachments/assets/a83bd3b0-ae20-47f8-b763-c34da063ad1a)
 
 47. file (memeriksa jenis file)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_03_50_09](https://github.com/user-attachments/assets/9d5116e1-7236-4b6c-8bd4-6b58d45c356c)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_03_50_09](https://github.com/user-attachments/assets/9d5116e1-7236-4b6c-8bd4-6b58d45c356c)
 
 48. dig (menampilkan informasi DNS)
 49. top (menampilkan proses yang berjalan dan penggunaan resource sistem)
 
 
 
-![alt text](![VirtualBox_ubuntu_05_09_2024_02_55_37](https://github.com/user-attachments/assets/031e9780-90f4-4809-9c60-2c4b9f964cf9)
-?raw=true)
+![VirtualBox_ubuntu_05_09_2024_02_55_37](https://github.com/user-attachments/assets/031e9780-90f4-4809-9c60-2c4b9f964cf9)
 
 50. sudo timedatectl set-timezone Asia/Jakarta (untuk mengatur waktu,tanggal, dan zona waktu)
 51. sudo shutdown now (mematikan/men-shutdown sistem)
