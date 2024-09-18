@@ -1,4 +1,4 @@
-Soal Latihan :
+Soal Latihan & Jawaban :
 1.	Lihat peralatan I/O, character device, yang ada pada system komputer.
 ![VirtualBox_ubuntu_12_09_2024_08_01_05](https://github.com/user-attachments/assets/01c7d3c1-6f99-4722-9359-ea8f1a2d3b24)
 
